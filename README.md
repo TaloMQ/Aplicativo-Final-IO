@@ -1,11 +1,15 @@
-# Aplicativo-Final-IO
- Gonzalo Alejandro Malagon Quiroga - 20201020002  - Jose David Sanabria Aponte - 20171020044
-# Aplicativo-IO1
-<img src="https://www.udistrital.edu.co/themes/custom/versh/images/default/preloader.png" align="left" width="192px" height="192px"/>
-<img align="left" width="0" height="192px" hspace="10"/>
+Dependency Manager CAOS
 
-> Gonzalo Alejandro Malagon Quiroga  - **COD. 20201020002**
+Documentation Caos: https://pypi.org/project/caos/
 
-> Jose David Sanabria Aponte - **COD. 20171020044**
+To run do the next steps:
+install python 3
 
-<br></br>
+install CAPS:
+  pip3 install caos
+Setup the virtual environment:
+  caos prepare
+  caos update
+Run the aplication:
+  caos run
+
